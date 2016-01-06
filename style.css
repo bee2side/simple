@@ -452,7 +452,7 @@ input[type=submit] {
 		display: none;
 	}
 	.sidebar {
-		width: 280px;
+		width: 240px;
 		position: absolute;
 		right: 20px;
 	}
