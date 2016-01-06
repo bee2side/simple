@@ -464,7 +464,6 @@ input[type=submit] {
 	}
 	.sidebar .home_sidebar_widget, .single_sidebar_widget {
 		position: fixed;
-		width: 280px;
 	}
 	#wp-load-more-btn {
 		width: 200px;
