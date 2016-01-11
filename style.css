@@ -443,27 +443,23 @@ input[type=submit] {
 	.commentlist {
 		padding-left: 44px;
 	}
-/*	.home_article {
-		padding-left: 20px;
-	}*/
 
 	/* menu */
 	.menubtn {
 		display: none;
 	}
 	.sidebar {
-		width: 240px;
 		position: absolute;
 		right: 20px;
 	}
 	.sidebar .menu {
 		display: block;
-		width: 280px;
 		padding: 0 0 120px 0;
 		border-bottom: 0;
 	}
 	.sidebar .home_sidebar_widget, .single_sidebar_widget {
 		position: fixed;
+		width: 280px;
 	}
 	#wp-load-more-btn {
 		width: 200px;
